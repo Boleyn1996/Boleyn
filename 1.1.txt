@@ -1,0 +1,9 @@
+<heml>
+	<head><!--头部-->
+		<title>hello</title><!--标题-->
+	</head>
+	<body bgcolor="red"><!--在bgcolor代表颜色,red红色-->
+		<p>hello heml</p><!--段落标签-->
+		<hr/><!--下划线-->
+	</body>
+</heml>
