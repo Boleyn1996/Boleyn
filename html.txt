@@ -1,9 +1,0 @@
-<html>
-<head><!--头部-->
-	<title>hello</title><!--标题-->
-	</head>
-	<body bgcolor="blue">
-		<p>hello html</p>
-		<hr/>
-	</body>
-</html>
