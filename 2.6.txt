@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+	<title></title>
+</head>
+<body>
+	<!--此处填写代码-->
+	<pre>
+	    
+	    
+	                   《早发白帝城》
+	           朝辞白帝彩云间，千里江陵一日还。
+	           两岸猿声啼不住，轻舟已过万重山。
+	</pre>
+</body>
+</html>
